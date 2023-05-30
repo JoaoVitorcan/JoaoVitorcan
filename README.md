@@ -4,6 +4,7 @@
 
 - 💻 Today I work with Front-End
 - 🕮 Studying React
+- 🎓Graduated at St.Clair College (Web Development)
 
 ##
 
