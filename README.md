@@ -1,7 +1,11 @@
-### Hi I am João Vitor 🙋‍♂️
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+João+Vitor;I'm+21+years+old;I'm+from+Brazil;I+Graduated+In+Web+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 💻 Today I work with Front-End
 - 🤵 Studying JavaScript
+
+##
 
 ![Joao´s GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitorcan&show_icons=true&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorcan&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
