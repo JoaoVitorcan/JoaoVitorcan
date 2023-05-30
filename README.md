@@ -4,3 +4,4 @@
 - 🌱 Studying JavaScript
 
 ![Joao´s GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitorcan&show_icons=true&theme=highcontrast)
+![Joao´s GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitorcan&hide=contribs,prs)
