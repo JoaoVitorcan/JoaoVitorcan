@@ -3,8 +3,7 @@
 
 - 💻 Today I work with Front-End
 - 🕮 Studying React
-- 🎓 Graduated at St.Clair College (Web Development)
-- 🙋‍♂️ I am from Brazil but I am living in Canada
+- 🙋‍♂️ Web developer from Brazil but living in Canada
 
 ##
 
