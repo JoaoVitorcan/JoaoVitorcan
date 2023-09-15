@@ -2,7 +2,7 @@
 
 
 - 💻 Today I work with Front-End
-- 🕮 HTML, CSS, JavaScript, React.js, Git
+- 🕮 React.js, JavaScript, TypeScript, Git/GitHub
 - 🙋‍♂️ Web developer from Brazil but living in Canada
 
 ##
