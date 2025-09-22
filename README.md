@@ -1,9 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=120&section=header"/>
 
 
-- 💻 Today I work with Front-End
-- 🕮 React.js, JavaScript, TypeScript, Git/GitHub
-- 🙋‍♂️ Web developer from Brazil but living in Canada
+
 
 ##
 
